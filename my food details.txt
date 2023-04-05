@@ -1,0 +1,11 @@
+my food details
+1.egg biryani|100
+2.egg curry|120
+3.mushroom curry|150
+4.mushroom biryani|200
+5.mutton biryani|200
+6.mutton curry|250
+7.egg fried rice|250
+8.chicken fried rice|200
+9.pani poori|20
+10.kit kat|140
